@@ -1,0 +1,30 @@
+{
+    "cam_index": 0,
+    "cam_name": "HD Pro Webcam C920",
+    "micMute_state": true,
+    "vidMute_state": true,
+    "micMute_Off": false,
+    "vidMute_Off": false,
+    "showAgain_VidMute": true,
+    "keyboardID": "",
+    "Mute": [
+        "Global Mic Mute"
+    ],
+    "Share": [
+        [
+            "Alt",
+            "+",
+            "s"
+        ]
+    ],
+    "End": [
+        [
+            "Alt",
+            "+",
+            "q"
+        ]
+    ],
+    "Vid": [
+        "Global Video Mute"
+    ]
+}
