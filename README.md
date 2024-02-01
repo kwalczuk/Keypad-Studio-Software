@@ -12,5 +12,8 @@ Windows Software for Zoom Keypad
 
 <img width="500" alt="image" src="https://github.com/kwalczuk/Keypad-Studio-Software/assets/44985287/c895354e-da01-43ed-baa0-124928125cde">
 
+3. A Keypad Studio Shortcut will be created on your desktop
 
-NOTE: You may need to start Keypad Studio after a restart to make sure global video and mic mute works correctly 
+4. Run Keypad Studio
+   
+NOTE: You may need to start Keypad Studio after restarting to make sure global video and mic mute works properly  
