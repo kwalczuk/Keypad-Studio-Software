@@ -9,3 +9,5 @@ Windows Software for Zoom Keypad
 <img width="500" alt="image" src="https://github.com/kwalczuk/test/assets/44985287/7341af0c-986d-47f1-8a24-86bb4dec1ef5">
 
 2. Unzip folder and run KeypadStudioSetup.exe
+
+NOTE: You may need to start Keypad Studio after a restart to make sure global video and mic mute works correctly 
